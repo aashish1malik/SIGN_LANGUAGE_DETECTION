@@ -2,7 +2,7 @@
 
 ## 📹 Demo Video
 
-▶️ [Click here to watch the demo](./sign_language_detection/videos/test_videos/output_vedi03.mp4)
+▶️ [Click here to watch the demo](./sign_language_detection/videos/test_videos/output_vedio3.mp4)
 
 
 
