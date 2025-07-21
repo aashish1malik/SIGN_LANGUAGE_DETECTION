@@ -1,5 +1,11 @@
 <img width="1156" height="594" alt="Screenshot 2025-07-21 091725" src="https://github.com/user-attachments/assets/29a39898-59cb-4de4-8723-383da70751fd" />
 
+## 📹 Demo Video
+
+▶️ [Click here to watch the demo](./sign_language_detection/videos/test_videos/output_vedi03.mp4)
+
+
+
 ![istockphoto-1148738497-612x612](https://github.com/user-attachments/assets/0a2f9fb9-39f4-4647-bc86-da646825af3e)
 
 
